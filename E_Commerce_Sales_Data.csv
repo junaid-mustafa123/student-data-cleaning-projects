@@ -1,0 +1,11 @@
+CustomerID,Name,Email,City,TotalAmount,OrderDate
+101,Ayesha,ayesha@gmail.com,Lahore,2500,2024-01-05
+102,Zain,zain@yahoo.com,Karachi,3000,2024-01-06
+103,Ayesha,ayesha@gmail.com,Lahore,2500,2024-01-05
+101,Ayesha,ayesha@gmail.com,Lahore,2500,2024-01-05
+104,Bilal,bilal@gmail.com,Islamabad,1800,2024-01-07
+105,Hina,hina@hotmail.com,Peshawar,2200,2024-01-08
+102,Zain,zain@yahoo.com,Karachi,3000,2024-01-06
+106,Kiran,kiran@gmail.com,Quetta,1900,2024-01-09
+107,Tariq,tariq@gmail.com,Lahore,2700,2024-01-10
+104,Bilal,bilal@gmail.com,Islamabad,1800,2024-01-07
